@@ -1,0 +1,11 @@
+
+# Lenovo X1 7th gen
+
+
+
+
+### Sound
+
+```
+sudo emerge sof-firmware
+```

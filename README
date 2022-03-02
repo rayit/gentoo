@@ -1,9 +1,6 @@
 
 # Lenovo X1 7th gen
 
-
-
-
 ### Sound
 
 ```
@@ -11,4 +8,6 @@ sudo emerge sof-firmware
 ```
 
 
+### St
 
+https://github.com/LukeSmithxyz/st.git

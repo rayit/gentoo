@@ -2,7 +2,12 @@
 
 > Just some notes to get going
 
+
+
 ## Kernel
+Change make.conf 
+ACCEPT_LICENSE=* @FREE"
+
 ```bash
 $ emerge -av sys-kernel/gentoo-sources sys-kernel/linux-firmware
 $ eselect kernel list

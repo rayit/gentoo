@@ -5,8 +5,9 @@
 
 
 ## Kernel
-Change make.conf 
-ACCEPT_LICENSE=* @FREE"
+
+Change make.conf \\ 
+ACCEPT_LICENSE="* @FREE"
 
 ```bash
 $ emerge -av sys-kernel/gentoo-sources sys-kernel/linux-firmware
